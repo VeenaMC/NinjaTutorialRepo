@@ -1,0 +1,6 @@
+com\tutorialNinja\qa\testcases\EditAccountPageTest.class
+com\tutorialNinja\qa\testcases\HomePageTest.class
+TestNGListener\CustomListener.class
+com\tutorialNinja\qa\testcases\MyAccountPageTest.class
+com\tutorialNinja\qa\testcases\LoginPageTest.class
+com\tutorialNinja\qa\testcases\RegistrationPageTest.class

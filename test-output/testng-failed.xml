@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Tutotial Ninja Demo Application Test Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.tutorialNinja.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Tutotial Ninja Demo Application Test Cases(failed)">
+    <classes>
+      <class name="com.tutorialNinja.qa.testcases.EditAccountPageTest">
+        <methods>
+          <include name="editAccountPageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="logoutFromAccnt"/>
+          <include name="editAccountPageHeadingTest"/>
+          <include name="editAccountInfo"/>
+        </methods>
+      </class> <!-- com.tutorialNinja.qa.testcases.EditAccountPageTest -->
+      <class name="com.tutorialNinja.qa.testcases.HomePageTest">
+        <methods>
+          <include name="registerPageNavigationTest"/>
+          <include name="setup"/>
+          <include name="homePageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="loginPageNavigationTest"/>
+        </methods>
+      </class> <!-- com.tutorialNinja.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Tutotial Ninja Demo Application Test Cases(failed) -->
+</suite> <!-- Failed suite [Tutotial Ninja Demo Application Test Suite] -->

@@ -1,0 +1,12 @@
+[INFO ] 2024-06-12 17:30:08.944 [main] EditAccountPageTest - User is in Edit account page
+[INFO ] 2024-06-12 17:30:11.305 [main] HomePageTest - Opened Ninja wesite
+[INFO ] 2024-06-12 17:30:13.219 [main] HomePageTest - Opened Ninja wesite
+[INFO ] 2024-06-12 17:30:15.403 [main] HomePageTest - Opened Ninja wesite
+[DEBUG] 2024-06-12 17:30:18.089 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-12 17:30:18.091 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-12 17:30:18.092 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-12 17:30:18.107 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-12 17:30:47.856 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-12 17:30:47.857 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-12 17:30:47.857 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-06-12 17:30:47.858 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels

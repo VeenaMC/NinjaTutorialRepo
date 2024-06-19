@@ -1,0 +1,10 @@
+com\tutorialNinja\qa\pages\AccountLogoutPage.class
+com\tutorialNinja\qa\util\UtilClass.class
+com\tutorialNinja\qa\ExtentReportListener\ExtentReporterNG.class
+com\tutorialNinja\qa\util\WebEventListener.class
+com\tutorialNinja\qa\pages\LoginPage.class
+com\tutorialNinja\qa\pages\RegistrationPage.class
+com\tutorialNinja\qa\pages\EditAccountPage.class
+com\tutorialNinja\qa\base\BaseClass.class
+com\tutorialNinja\qa\pages\HomePage.class
+com\tutorialNinja\qa\pages\MyAccountPage.class

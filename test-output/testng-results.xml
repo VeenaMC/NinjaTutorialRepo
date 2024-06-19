@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-12T17:30:08 IST" name="Tutotial Ninja Demo Application Test Suite" finished-at="2024-06-12T17:31:04 IST" duration-ms="55344">
+    <groups>
+    </groups>
+    <test started-at="2024-06-12T17:30:08 IST" name="Tutotial Ninja Demo Application Test Cases" finished-at="2024-06-12T17:31:04 IST" duration-ms="55344">
+      <class name="com.tutorialNinja.qa.testcases.MyAccountPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.MyAccountPageTest@11963225]" started-at="2024-06-12T17:30:31 IST" name="setup" finished-at="2024-06-12T17:30:34 IST" duration-ms="2606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="myAccountPageTitleTest()[pri:1, instance:com.tutorialNinja.qa.testcases.MyAccountPageTest@11963225]" started-at="2024-06-12T17:30:34 IST" name="myAccountPageTitleTest" finished-at="2024-06-12T17:30:34 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccountPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.MyAccountPageTest@11963225]" started-at="2024-06-12T17:30:34 IST" name="tearDown" finished-at="2024-06-12T17:30:34 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.MyAccountPageTest@11963225]" started-at="2024-06-12T17:30:34 IST" name="setup" finished-at="2024-06-12T17:30:37 IST" duration-ms="2754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="myAccountPageHeadingTest()[pri:2, instance:com.tutorialNinja.qa.testcases.MyAccountPageTest@11963225]" started-at="2024-06-12T17:30:37 IST" name="myAccountPageHeadingTest" finished-at="2024-06-12T17:30:37 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccountPageHeadingTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.MyAccountPageTest@11963225]" started-at="2024-06-12T17:30:37 IST" name="tearDown" finished-at="2024-06-12T17:30:37 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.MyAccountPageTest@11963225]" started-at="2024-06-12T17:30:37 IST" name="setup" finished-at="2024-06-12T17:30:40 IST" duration-ms="2674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="editAccountPage()[pri:3, instance:com.tutorialNinja.qa.testcases.MyAccountPageTest@11963225]" started-at="2024-06-12T17:30:40 IST" name="editAccountPage" finished-at="2024-06-12T17:30:40 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editAccountPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.MyAccountPageTest@11963225]" started-at="2024-06-12T17:30:40 IST" name="tearDown" finished-at="2024-06-12T17:30:40 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialNinja.qa.testcases.MyAccountPageTest -->
+      <class name="com.tutorialNinja.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginPageTest@6a175569]" started-at="2024-06-12T17:30:24 IST" name="setup" finished-at="2024-06-12T17:30:26 IST" duration-ms="2200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.tutorialNinja.qa.testcases.LoginPageTest@6a175569]" started-at="2024-06-12T17:30:26 IST" name="loginPageTitleTest" finished-at="2024-06-12T17:30:26 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginPageTest@6a175569]" started-at="2024-06-12T17:30:26 IST" name="tearDown" finished-at="2024-06-12T17:30:26 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginPageTest@6a175569]" started-at="2024-06-12T17:30:26 IST" name="setup" finished-at="2024-06-12T17:30:28 IST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageHeadingTest()[pri:2, instance:com.tutorialNinja.qa.testcases.LoginPageTest@6a175569]" started-at="2024-06-12T17:30:28 IST" name="loginPageHeadingTest" finished-at="2024-06-12T17:30:28 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageHeadingTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginPageTest@6a175569]" started-at="2024-06-12T17:30:28 IST" name="tearDown" finished-at="2024-06-12T17:30:28 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginPageTest@6a175569]" started-at="2024-06-12T17:30:28 IST" name="setup" finished-at="2024-06-12T17:30:31 IST" duration-ms="2184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:3, instance:com.tutorialNinja.qa.testcases.LoginPageTest@6a175569]" started-at="2024-06-12T17:30:31 IST" name="loginTest" finished-at="2024-06-12T17:30:31 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.LoginPageTest@6a175569]" started-at="2024-06-12T17:30:31 IST" name="tearDown" finished-at="2024-06-12T17:30:31 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialNinja.qa.testcases.LoginPageTest -->
+      <class name="com.tutorialNinja.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.HomePageTest@3ad394e6]" started-at="2024-06-12T17:30:08 IST" name="setup" finished-at="2024-06-12T17:30:11 IST" duration-ms="2319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTitleTest()[pri:1, instance:com.tutorialNinja.qa.testcases.HomePageTest@3ad394e6]" started-at="2024-06-12T17:30:11 IST" name="homePageTitleTest" finished-at="2024-06-12T17:30:11 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.HomePageTest@3ad394e6]" started-at="2024-06-12T17:30:11 IST" name="tearDown" finished-at="2024-06-12T17:30:11 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.HomePageTest@3ad394e6]" started-at="2024-06-12T17:30:11 IST" name="setup" finished-at="2024-06-12T17:30:13 IST" duration-ms="1612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerPageNavigationTest()[pri:2, instance:com.tutorialNinja.qa.testcases.HomePageTest@3ad394e6]" started-at="2024-06-12T17:30:13 IST" name="registerPageNavigationTest" finished-at="2024-06-12T17:30:13 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageNavigationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.HomePageTest@3ad394e6]" started-at="2024-06-12T17:30:13 IST" name="tearDown" finished-at="2024-06-12T17:30:13 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.HomePageTest@3ad394e6]" started-at="2024-06-12T17:30:13 IST" name="setup" finished-at="2024-06-12T17:30:15 IST" duration-ms="1603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageNavigationTest()[pri:3, instance:com.tutorialNinja.qa.testcases.HomePageTest@3ad394e6]" started-at="2024-06-12T17:30:15 IST" name="loginPageNavigationTest" finished-at="2024-06-12T17:30:15 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageNavigationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.HomePageTest@3ad394e6]" started-at="2024-06-12T17:30:15 IST" name="tearDown" finished-at="2024-06-12T17:30:15 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialNinja.qa.testcases.HomePageTest -->
+      <class name="com.tutorialNinja.qa.testcases.EditAccountPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:40 IST" name="setup" finished-at="2024-06-12T17:30:44 IST" duration-ms="3694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="editAccountPageTitleTest()[pri:1, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:44 IST" name="editAccountPageTitleTest" finished-at="2024-06-12T17:30:44 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editAccountPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:44 IST" name="tearDown" finished-at="2024-06-12T17:30:44 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:44 IST" name="setup" finished-at="2024-06-12T17:30:47 IST" duration-ms="2791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="editAccountPageHeadingTest()[pri:2, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:47 IST" name="editAccountPageHeadingTest" finished-at="2024-06-12T17:30:47 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editAccountPageHeadingTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:47 IST" name="tearDown" finished-at="2024-06-12T17:30:47 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:47 IST" name="setup" finished-at="2024-06-12T17:30:50 IST" duration-ms="3098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="editAccountInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:50 IST" name="editAccountInfo" data-provider="getNinjaEditPrfTestData" finished-at="2024-06-12T17:30:51 IST" duration-ms="545" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FnameUpd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LnameUpd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[veenalotest3+1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1234566.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editAccountInfo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:51 IST" name="tearDown" finished-at="2024-06-12T17:30:51 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:51 IST" name="setup" finished-at="2024-06-12T17:30:54 IST" duration-ms="2992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logoutFromAccnt()[pri:4, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:30:54 IST" name="logoutFromAccnt" finished-at="2024-06-12T17:31:04 IST" duration-ms="9331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromAccnt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.EditAccountPageTest@6548bb7d]" started-at="2024-06-12T17:31:04 IST" name="tearDown" finished-at="2024-06-12T17:31:04 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialNinja.qa.testcases.EditAccountPageTest -->
+      <class name="com.tutorialNinja.qa.testcases.RegistrationPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationPageTest@28fa700e]" started-at="2024-06-12T17:30:15 IST" name="setup" finished-at="2024-06-12T17:30:17 IST" duration-ms="1925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerPageTitleTest()[pri:1, instance:com.tutorialNinja.qa.testcases.RegistrationPageTest@28fa700e]" started-at="2024-06-12T17:30:17 IST" name="registerPageTitleTest" finished-at="2024-06-12T17:30:17 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationPageTest@28fa700e]" started-at="2024-06-12T17:30:17 IST" name="tearDown" finished-at="2024-06-12T17:30:17 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationPageTest@28fa700e]" started-at="2024-06-12T17:30:18 IST" name="setup" finished-at="2024-06-12T17:30:20 IST" duration-ms="1922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateCreateNewAccnt(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.tutorialNinja.qa.testcases.RegistrationPageTest@28fa700e]" started-at="2024-06-12T17:30:20 IST" name="validateCreateNewAccnt" data-provider="getNinjaTestData" finished-at="2024-06-12T17:30:21 IST" duration-ms="696" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[flname6724@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9.900990099E9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Flname@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Flname@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewAccnt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationPageTest@28fa700e]" started-at="2024-06-12T17:30:21 IST" name="tearDown" finished-at="2024-06-12T17:30:21 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationPageTest@28fa700e]" started-at="2024-06-12T17:30:21 IST" name="setup" finished-at="2024-06-12T17:30:23 IST" duration-ms="1982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateCreateNewAccnt(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.tutorialNinja.qa.testcases.RegistrationPageTest@28fa700e]" started-at="2024-06-12T17:30:23 IST" name="validateCreateNewAccnt" data-provider="getNinjaTestData" finished-at="2024-06-12T17:30:23 IST" duration-ms="670" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fname1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lname1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[flname16724@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9.900990098E9]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Flname@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Flname@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewAccnt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialNinja.qa.testcases.RegistrationPageTest@28fa700e]" started-at="2024-06-12T17:30:23 IST" name="tearDown" finished-at="2024-06-12T17:30:24 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialNinja.qa.testcases.RegistrationPageTest -->
+    </test> <!-- Tutotial Ninja Demo Application Test Cases -->
+  </suite> <!-- Tutotial Ninja Demo Application Test Suite -->
+</testng-results>
